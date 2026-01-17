@@ -10,7 +10,7 @@ Analysis_ConectaTel.ipynb → Notebook principal con limpieza de datos, análisi
 
 **▶️ Cómo abrir el notebook en Google Colab**
 Haz clic en el siguiente botón para ejecutar el análisis de forma interactiva:
-https://colab.research.google.com/drive/1LtsksJW34Tx88ARtz4QNbPgjFDpmm9ta?usp=sharing
+https://colab.research.google.com/drive/1Epk2jtqSyOsl6TdRafWf9-XJYXmc6xky?usp=sharing
 
 **🧠 Objetivo del análisis**
 Limpieza de Datos: Identificación y corrección de valores inconsistentes (como edades negativas) y valores faltantes.
